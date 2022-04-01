@@ -4,7 +4,7 @@
     "url": "https:/si24.ir",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bymh-saman",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 7663,
     "timeYear": 5245,
     "dailyMinutesDown": {
+      "2022-04-01": 0,
       "2022-03-05": 25,
       "2022-03-04": 208,
       "2022-02-02": 463,
