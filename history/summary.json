@@ -6,17 +6,16 @@
     "slug": "bymh-saman",
     "status": "up",
     "uptime": "83.30%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "79.04%",
-    "time": 4399,
-    "timeDay": 3875,
-    "timeWeek": 5052,
-    "timeMonth": 4602,
-    "timeYear": 4231,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "79.11%",
+    "time": 4400,
+    "timeDay": 3711,
+    "timeWeek": 5191,
+    "timeMonth": 4572,
+    "timeYear": 4232,
     "dailyMinutesDown": {
-      "2023-09-27": 15,
       "2023-09-25": 16,
       "2023-09-24": 122,
       "2023-09-11": 24,
@@ -112,8 +111,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   }
 ]
