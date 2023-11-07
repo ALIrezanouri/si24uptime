@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bymh-saman",
     "status": "up",
-    "uptime": "84.16%",
+    "uptime": "84.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "89.77%",
-    "time": 4359,
-    "timeDay": 5260,
-    "timeWeek": 3971,
-    "timeMonth": 4034,
-    "timeYear": 4208,
+    "uptimeYear": "90.05%",
+    "time": 4364,
+    "timeDay": 6109,
+    "timeWeek": 4458,
+    "timeMonth": 4186,
+    "timeYear": 4213,
     "dailyMinutesDown": {
       "2023-10-28": 32,
       "2023-10-18": 27,
@@ -77,8 +77,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   }
 ]
