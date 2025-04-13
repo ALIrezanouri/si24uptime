@@ -4,7 +4,7 @@
     "url": "https:/si24.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bymh-saman",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 6134,
     "timeYear": 5111,
     "dailyMinutesDown": {
+      "2025-04-13": 0,
       "2025-03-16": 23,
       "2025-03-08": 186,
       "2025-03-06": 16,
