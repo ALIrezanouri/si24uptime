@@ -6,14 +6,14 @@
     "slug": "bymh-saman",
     "status": "up",
     "uptime": "95.25%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "81.04%",
-    "time": 5323,
-    "timeDay": 7365,
-    "timeWeek": 6028,
-    "timeMonth": 5665,
+    "time": 5317,
+    "timeDay": 2996,
+    "timeWeek": 5907,
+    "timeMonth": 5571,
     "timeYear": 5428,
     "dailyMinutesDown": {
       "2025-10-27": 18,
@@ -128,8 +128,7 @@
       "2024-11-03": 61,
       "2024-11-02": 32,
       "2024-10-31": 16,
-      "2024-10-30": 103,
-      "2024-10-29": 123
+      "2024-10-30": 103
     }
   }
 ]
