@@ -4,17 +4,17 @@
     "url": "https:/si24.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bymh-saman",
-    "status": "down",
-    "uptime": "89.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "69.64%",
-    "time": 5876,
-    "timeDay": 5278,
-    "timeWeek": 5332,
-    "timeMonth": 7480,
-    "timeYear": 6125,
+    "status": "up",
+    "uptime": "89.87%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "69.63%",
+    "time": 5859,
+    "timeDay": 4345,
+    "timeWeek": 5119,
+    "timeMonth": 7360,
+    "timeYear": 6116,
     "dailyMinutesDown": {
       "2025-08-21": 20,
       "2025-08-22": 25,
@@ -167,7 +167,7 @@
       "2026-07-05": 136,
       "2026-07-30": 81,
       "2026-08-15": 105,
-      "2026-08-20": 0
+      "2026-08-20": 23
     }
   }
 ]
